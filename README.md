@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sup Yo 👋
 
 - Favorite Activity: 🏀
 - I Live For: 👑

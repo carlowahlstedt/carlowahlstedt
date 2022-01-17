@@ -3,7 +3,6 @@
 - Favorite Activity: 🏀
 - I Live For: 👑
 - Resume: [🔗](https://www.linkedin.com/in/carlowahlstedt/)
-- I’m looking for help with: [NewmanPostman_VSTS_Task](https://github.com/carlowahlstedt/NewmanPostman_VSTS_Task)
 
 <!--
 **carlowahlstedt/carlowahlstedt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
